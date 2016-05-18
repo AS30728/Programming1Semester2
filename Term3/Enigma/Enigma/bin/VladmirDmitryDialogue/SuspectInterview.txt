@@ -1,0 +1,10 @@
+Narrator: The user travels to the Murmansk location of the Molotov Brothers Plumbing company.  When he arrives, he is greeted by the brothers and starts the interrogation.  
+User: Who did you send to the Hotel Metropol on Sunday before the hotel was bombed?
+Molotov Brothers: We are closed on Sunday, we never received any phone call. 
+User: did you have any wardrobe missing?
+Molotov Brother: No, all our outfits are accounted for.
+User: Do you have security footage of Sunday?
+Molotov Brother: Yes, I can show you right now.
+Narrator: the footage shows two people matching the description of the two plumbers the receptionist saw at the Metropol entering the door after picking the lock.  They wait for two hours and answer the phone when the Metropol calls.  They take two outfits and leave with a box hidden in one of them.  They return without the box and they place the outfits back in the exact position it was in before and leave, no trace they were even there.
+Molotov Brothers: Those slimy weasels!
+User: Well, it looks like I have the information I need, thank you for your time and cooperation.

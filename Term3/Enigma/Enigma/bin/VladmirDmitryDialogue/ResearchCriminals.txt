@@ -1,0 +1,7 @@
+Narrator: Back at the Kremlin, the user talks with Mitnick about the two men.
+Mitnick: I can run a scan to narrow down the list of suspects.
+User: That would be great
+Mitnick: (After two minutes of typing) Are these your men?
+User: Yes they are
+Mitnick: This is John Johnson and the other is Carl Sanders, two American spies who do the dirty work in Russia.  Why did you want them?
+User: It is for the case, thank you.

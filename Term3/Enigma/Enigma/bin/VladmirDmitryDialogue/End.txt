@@ -1,0 +1,42 @@
+Screen: Did you solve the case?
+Options:
+i.Yes
+ii.No, let me go back through the records
+Who orchestrated the explosion:
+i.John Johnson and Carl Sanders
+ii.A GRU Agent
+iii.Sergei Barchev
+iv.The Molotov Brothers
+What was the motive:
+i.Patriotism
+ii.Corruption and foreign influence
+iii.Personal interests
+iv.Hired work
+Who supplied the bomb?:
+i.The CIA
+ii.Mossad
+iii.The Molotov Brothers
+iv.A weapons dealer in Murmansk
+Who provided funding?:
+i.Zhukov
+ii.Sergei Barchev
+iii.A Swiss hedgefund
+iv.Ivanovich
+Who organized the bombing?
+i.The CIA
+ii.Mossad
+iii.Anarchists
+iv.Opponents of Dmitry in the next election
+Who hired the men needed to bomb Dmitry?
+i.Mossad
+ii.The CIA
+iii.FSB
+iv.Vasilly
+How did the bomb get into the hotel?
+i.Dropped off by the Molotov Brothers
+ii.Dropped off by the CIA agents
+iii.Dropped off by Sergei Barchev
+iv.Taken there by the man who orchestrated the bombing
+Are you certain of these answers?
+i.Yes
+ii.No, let me change them

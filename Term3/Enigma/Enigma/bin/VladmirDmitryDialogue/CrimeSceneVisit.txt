@@ -1,0 +1,28 @@
+Narrator: You approach the hotel manager of the Hotel Metropol and ask him questions.
+User: What information can you give me about the guests staying here the night Dmitry died?
+Manager: We ran a background check through the FSB system and every guest was a Russian national who had supported Dmitry since day 1.
+User: How many FSB agents were staying at the hotel?
+Manager: The entire 4th floor was booked with FSB agents, it was also blown up with the fifth.  
+User: What about the staff?
+Manager: All the staff is hand-picked from the finest hotels around the world.  We make sure that they have no political grudges and they swear upon hiring that they won’t ever betray a guest at the Metropol.
+User: How many staff was supposed to be stationed on the fourth and fifth floors?
+Manager: There was supposed to be four staff stationed on the floors.
+User: How many were killed in the explosion?
+Manager: All were killed by the explosion.
+User: Was there anyone who didn’t show up for work that day?
+Manager: Everyone showed up except John Johnson who works in elevator maintenance and Pierre DuPont who works in room service.  
+User: Did either one show up for work?
+Manager: Neither was reported in the building.
+User: How long was Dmitry planning on staying at the Metropol?
+Manager: The Kremlin booked the rooms the night before he arrived and immediately occupied the rooms within 1 hour of booking.
+Was there any outside personel that came to the hotel in the few days before Dmitry was supposed to check in?
+There was a plumbing issue on the third floor the day before Dmitry arrived.  We called in the Molotov Brothers plumbing service to fix it.  
+User: Who normally does the plumbing service?
+Manager: We have always used the Molotov Brothers, they are reliable and never shortchange us.  
+User: Were the two Molotov brothers the ones that took care of the plumbing issue?
+Manager: No, two other men showed up.  One had a thick brown beard and blue eyes and the other one was extremely pale with the most interesting set of green eyes one could imagine as it had red streaks within a murky green pupil.
+User: Does the hotel have a helipad?
+Manager: We did before the fifth floor was blown up.  It was the sixth floor and was above 10 feet of noise cancelling material.  
+User: Were there any helicopters that landed after FSB purchased the rooms?
+Manager: The helicopter for Dmitry landed, and the helicopter for Sergei Barchev, ranked 142 on the Forbes 400, landed too.
+User: Thank you for your help, I may talk to you again later.
