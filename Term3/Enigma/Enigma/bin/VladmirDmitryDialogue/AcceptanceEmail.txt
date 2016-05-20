@@ -1,1 +1,5 @@
-Minister Sogu: Thank you for joining the investigation.  I have assembled a crew to work with you on this mission.  Devin Mitnick is world-renowned for his hacking skills in hacking the US Department of Defense and the British Parliament; he can get into any server or phone in the world. Do you have any questions?
+Minister Sogu: Thank you for joining the investigation.  I have assembled a crew to work with you on this mission.  Devin Mitnick is world-renowned for his hacking skills in hacking the US Department of Defense and the British Parliament; he can get into any server or phone in the world.  Atwood Chaney is a British fighter pilot and ace and is going to be in charge of the gadgets during this mission.  Do you have any questions?
+User:
+1. Which hotel did this take place in?
+2. Did Dmitry have any enemies?
+3. No, I’ll go home to do research.

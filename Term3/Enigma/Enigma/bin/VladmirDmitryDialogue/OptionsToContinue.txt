@@ -1,1 +1,3 @@
 Narrator: How would you like to continue with this mission?
+1.Go to Hotel Metropol to investigate
+2.Talk to enemies of Dmitry

@@ -26,3 +26,7 @@ Manager: We did before the fifth floor was blown up.  It was the sixth floor and
 User: Were there any helicopters that landed after FSB purchased the rooms?
 Manager: The helicopter for Dmitry landed, and the helicopter for Sergei Barchev, ranked 142 on the Forbes 400, landed too.
 User: Thank you for your help, I may talk to you again later.
+1.Go to Molotov Brothers plumbing
+2.Go to talk to enemies of Dmitry
+3.Go to talk to Sergei Barchev
+4.Go back to FSB HQ
